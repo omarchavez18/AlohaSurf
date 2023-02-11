@@ -1,6 +1,7 @@
 
-This project is a small web page about a surfboard shop, the purpose of the project is the implementation of webpack.
+#ALOHA SURF
 
+This project is a small web page about a surfboard shop, the purpose of the project is the implementation of webpack.
 
 To see the aloha Surf webpage click in the next link
 [Aloha Surf](https://omarchavez18.github.io/sportsProject/)
