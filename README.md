@@ -1,6 +1,7 @@
 # AlohaSurf
-This project is a small web page about a surfboard shop, the purpose of the project is the implementation of webpack. 
+>This project is a small web page about a surfboard shop, the purpose of the project is the implementation of webpack. 
 
+## Live Demo
 To see the aloha Surf webpage click in the next link
 [Aloha Surf](https://omarchavez18.github.io/AlohaSurf/)
 
@@ -26,6 +27,23 @@ To see the aloha Surf webpage click in the next link
 - JAVASCRIPT
 - WEBPACK
 
+### Description
+
+    Front end of Aloha Surf using JS and Webpack.
+    
+    Aloha Surf app is an application that sells different class of surfboards.
+    Thank you for using Aloha Surf App!
+
+
+
+## Prerequisites
+
+  - Internet Connection
+  - Web Browser
+  - Code Editor 
+  - Node Package Manager (NPM)
+  
+
 👤 &nbsp; **Omar Chávez**
 
 - LinkedIn: [omarchavezgdv](https://www.linkedin.com/in/omarchavezgdv/)
@@ -34,4 +52,3 @@ To see the aloha Surf webpage click in the next link
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
